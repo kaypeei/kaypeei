@@ -5,6 +5,7 @@
 - <b> SDLC-Based Project (Business Analysis Expert) </b>
   - Software Development Life Cycle, specifically the requirements, design, development support, testing, and delivery phases.
   [Low Fidelity Mockup for Pethub SDLC Project] (https://app.diagrams.net/#G1IIdlyx-_DvwC9ue02pnwRLRwMdYemBYK#%7B%22pageId%22%3A%22yAHVWcPBgCPBd7xhis5O%22%7D)
+  - [PetHub SDLC Business Analysis Documentation] (https://github.com/kaypeei/pethub)
 - <b> E‑commerce Sales & Customer Insights Dashboard </b>
   - Data Analysis, KPI design, data storytelling, and dashboard creation <b><i>(Data Analytics Project)</b></i>
 - <b> SQL Analysis Case Study </b>
