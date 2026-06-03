@@ -15,7 +15,28 @@ Business Analyst with 7+ years’ experience delivering structured documentation
   - Data Analysis, KPI design, data storytelling, and dashboard creation <b><i>(Data Analytics Project)</b></i>
 - <b> SQL Analysis Case Study </b>
   - Query data, Analyse patterns, and Produce insights — a major advantage for BA and PM roles. <b><i>(Data/Technical BA Project)</b></i>
-  
+
+<h3>Data Analysis & Visualization</h3>
+
+- SQL: <span style="background:#4CAF50; color:white; padding:3px 8px; border-radius:4px;">Advanced</span>  
+- Power BI: <span style="background:#2196F3; color:white; padding:3px 8px; border-radius:4px;">Expert</span>  
+- Excel: <span style="background:#2196F3; color:white; padding:3px 8px; border-radius:4px;">Expert</span>  
+- Tableau: <span style="background:#FFC107; color:black; padding:3px 8px; border-radius:4px;">Intermediate</span>
+
+<h3>Programming & Automation</h3>
+
+- Python: <span style="background:#FFC107; color:black; padding:3px 8px; border-radius:4px;">Intermediate</span>  
+- R: <span style="background:#FF5722; color:white; padding:3px 8px; border-radius:4px;">Beginner</span>
+
+<h3>Business Intelligence & Analytics</h3>
+
+- A/B Testing: <span style="background:#4CAF50; color:white; padding:3px 8px; border-radius:4px;">Experienced</span>  
+- Statistical Analysis: <span style="background:#4CAF50; color:white; padding:3px 8px; border-radius:4px;">Experienced</span>  
+- Predictive Modeling: <span style="background:#FFC107; color:black; padding:3px 8px; border-radius:4px;">Intermediate</span>  
+- KPI Development: <span style="background:#2196F3; color:white; padding:3px 8px; border-radius:4px;">Expert</span>
+
+
+
 # TECHNICAL SKILLS #
 **Tools:** Excel, Power BI, Tableau, PowerPoint, Word, Jira, MS Project, Figma, Draw.io, Adobe XD  
 **Languages:** SQL, Python, HTML, CSS   
