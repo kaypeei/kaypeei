@@ -1,5 +1,10 @@
-<h1>Hi, I'm Kolapo Ladipo! 
+<h1>Hi, I'm Kolapo Ladipo! <h1>
   
+# PROFESSIONAL SUMMARY #
+
+Business Analyst with 7+ years’ experience delivering structured documentation, process optimisation, and data-driven insights across digital transformation and customer-centric environments. Skilled in requirements elicitation, process mapping, SQL/Python analysis, UAT coordination, and UI/UX documentation.  
+<p>Combines analytical capability with strong communication and stakeholder engagement. Adept at converting complex business needs into clear, actionable deliverables that improve efficiency, reduce errors, and enhance user experience. Recognised for clarity, structured thinking, and high-quality documentation.
+
 <h2>👨‍💻 Project Management/Business Analyst/Data Analyst Projects:</h2>
 
 - <b> SDLC-Based Project (Business Analysis Expert) </b>
@@ -11,8 +16,12 @@
 - <b> SQL Analysis Case Study </b>
   - Query data, Analyse patterns, and Produce insights — a major advantage for BA and PM roles. <b><i>(Data/Technical BA Project)</b></i>
   
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+# TECHNICAL SKILLS #
+**Tools:** Excel, Power BI, Tableau, PowerPoint, Word, Jira, MS Project, Figma, Draw.io, Adobe XD  
+**Languages:** SQL, Python, HTML, CSS   
+**CRM:** Salesforce, Microsoft Dynamics  
+**Other:** Microsoft SQL Server, Jupyter Lab, WordPress, WooCommerce  
+
 
 <h2> Certifications </h2>
 
