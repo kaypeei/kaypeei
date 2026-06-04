@@ -12,9 +12,10 @@ Business Analyst with 7+ years’ experience delivering structured documentation
   [Low Fidelity Mockup for Pethub SDLC Project](https://app.diagrams.net/#G1IIdlyx-_DvwC9ue02pnwRLRwMdYemBYK#%7B%22pageId%22%3A%22yAHVWcPBgCPBd7xhis5O%22%7D)  
   [PetHub SDLC Business Analysis Documentation](https://github.com/kaypeei/pethub)
 - <b> E‑commerce Sales & Customer Insights Dashboard </b>
-  - Data Analysis, KPI design, data storytelling, and dashboard creation <b><i>(Data Analytics Project)</b></i>  https://github.com/kaypeei/E-commerce-Sales-Customer-Insights-SQL-Case-Study
+  - Data Analysis, KPI design, data storytelling, and dashboard creation <b><i>(Data Analytics Project) </b></i>  
+   (https://github.com/kaypeei/E-commerce-Performance-Dashboard-Power-BI-/tree/main)
 - <b> SQL Analysis Case Study </b>
-  - Query data, Analyse patterns, and Produce insights — a major advantage for BA and PM roles. <b><i>(Data/Technical BA Project)</b></i>
+  - Query data, Analyse patterns, and Produce insights — a major advantage for BA and PM roles. <b><i>(Data/Technical BA Project)</b></i>(https://github.com/kaypeei/E-commerce-Sales-Customer-Insights-SQL-Case-Study)
 
 
 # TECHNICAL SKILLS #
