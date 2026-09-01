@@ -2,8 +2,7 @@
   
 # PROFESSIONAL SUMMARY #
 
-Business Analyst with 7+ years’ experience delivering structured documentation, process optimisation, and data-driven insights across digital transformation and customer-centric environments. Skilled in requirements elicitation, process mapping, SQL/Python analysis, UAT coordination, and UI/UX documentation.  
-<p>Combines analytical capability with strong communication and stakeholder engagement. Adept at converting complex business needs into clear, actionable deliverables that improve efficiency, reduce errors, and enhance user experience. Recognised for clarity, structured thinking, and high-quality documentation.
+Digital Business Analyst with 7+ years of experience delivering business transformation, digital process optimisation, and analytical insights across complex, multi-stakeholder environments. Skilled in requirements elicitation, process modelling, data analysis, and documentation to support digital solution design and implementation. Experienced in conducting investigative studies, facilitating workshops, and translating business needs into clear functional specifications. Proven ability to apply analytical techniques (SQL, Python, Power BI) to support evidence based decision making, achieving measurable outcomes including a 30% reduction in process cycle time and a 30% increase in CSAT ratings (source: “Applied SQL and Python analysis… delivering a 30% reduction in process cycle time”; “Achieved a 30% increase in customer satisfaction…”). Adept at supporting business change, stakeholder engagement, and digital programme delivery within Agile environments.
 
 <h2>👨‍💻 Project Management/Business Analyst/Data Analyst Projects:</h2>
 
@@ -18,22 +17,29 @@ Business Analyst with 7+ years’ experience delivering structured documentation
   - Query data, Analyse patterns, and Produce insights — a major advantage for BA and PM roles. <b><i>(Data/Technical BA Project)</b></i>(https://github.com/kaypeei/E-commerce-Sales-Customer-Insights-SQL-Case-Study)
 
 
-# TECHNICAL SKILLS #
-**Tools:** Excel, Power BI, Tableau, PowerPoint, Word, Jira, MS Project, Figma, Draw.io, Adobe XD  
-**Languages:** SQL, Python, HTML, CSS   
-**CRM:** Salesforce, Microsoft Dynamics  
-**Other:** Microsoft SQL Server, Jupyter Lab, WordPress, WooCommerce  
+## CORE DIGITAL & BUSINESS ANALYSIS SKILLS ##
+•	Business Analysis: Requirements Elicitation | BRDs | FRDs | User Stories | Acceptance Criteria | Gap Analysis | Root Cause Analysis | Business Case Development
+•	Process & Data Modelling: AS IS/TO BE Mapping | Logical Modelling | KPI Frameworks | Data Structures | Workflow Analysis
+•	Digital & Analytical Tools: SQL | Python (Pandas, NumPy) | Power BI | Tableau | MS Visio | Draw.io | Figma | Jira | Confluence
+•	Digital Transformation: Stakeholder Engagement | Change Management | UAT Execution | Defect Management | Documentation (SOPs, Governance Reports)
+•	Investigative & Strategic Analysis: Viability Studies | Market Research | Trend Analysis | Insight Reporting
+•	Methods: Agile/Scrum | Sprint Planning | Backlog Refinement
+ 
 
 
-<h2> Certifications </h2>
+<h2> EDUCATION & CERTIFICATIONS </h2>
 
-- PM/BA Certification – Tritek Academy
-- Business Analytics – University of Illinois at Urbana-Champaign
-- Level 7 Diploma in Project Management – CPD UK
-- Google Project Management Certificate – Google
-- Strategic Leadership & Management – University of Illinois at Urbana-Champaign
-- HTML, CSS, JavaScript – Johns Hopkins University
-- Mini MBA in Business Administration – IBMI Berlin
+• Business Analytics, University of Illinois Urbana-Champaign, Gies College of Business (2026) 
+• Google Project Management Certificate, Google (2025) 
+• Level 7 Diploma in Project Management, CPD Online UK (2025) 
+• PM/BA Certification, Tritek Academy (2026) 
+• Data-Driven Digital Marketing & Analytics, University of Illinois Urbana-Champaign, Gies College of Business (2026) 
+• Strategic Leadership & Management Specialisation, University of Illinois Urbana-Champaign, Gies College of Business (2021) 
+• Inclusive Leadership: The Power of Workplace Diversity, University of Colorado System (2020) 
+• HTML, CSS & JavaScript, Johns Hopkins University (2020) 
+• Mini MBA, IBMI Berlin (2020) 
+• Bachelor of Agriculture (Animal Breeding & Genetics), University of Agriculture, Nigeria (2014) 
+
 
 
 <h2> 🤳 Connect with me:</h2>
