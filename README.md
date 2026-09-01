@@ -18,27 +18,26 @@ Digital Business Analyst with 7+ years of experience delivering business transfo
 
 
 ## CORE DIGITAL & BUSINESS ANALYSIS SKILLS ##
-•	Business Analysis: Requirements Elicitation | BRDs | FRDs | User Stories | Acceptance Criteria | Gap Analysis | Root Cause Analysis | Business Case Development
-•	Process & Data Modelling: AS IS/TO BE Mapping | Logical Modelling | KPI Frameworks | Data Structures | Workflow Analysis
-•	Digital & Analytical Tools: SQL | Python (Pandas, NumPy) | Power BI | Tableau | MS Visio | Draw.io | Figma | Jira | Confluence
-•	Digital Transformation: Stakeholder Engagement | Change Management | UAT Execution | Defect Management | Documentation (SOPs, Governance Reports)
-•	Investigative & Strategic Analysis: Viability Studies | Market Research | Trend Analysis | Insight Reporting
-•	Methods: Agile/Scrum | Sprint Planning | Backlog Refinement
+- •	Business Analysis: Requirements Elicitation | BRDs | FRDs | User Stories | Acceptance Criteria | Gap Analysis | Root Cause Analysis | Business Case Development
+- •	Process & Data Modelling: AS IS/TO BE Mapping | Logical Modelling | KPI Frameworks | Data Structures | Workflow Analysis
+- •	Digital & Analytical Tools: SQL | Python (Pandas, NumPy) | Power BI | Tableau | MS Visio | Draw.io | Figma | Jira | Confluence
+- •	Digital Transformation: Stakeholder Engagement | Change Management | UAT Execution | Defect Management | Documentation (SOPs, Governance Reports)
+- •	Investigative & Strategic Analysis: Viability Studies | Market Research | Trend Analysis | Insight Reporting
+- •	Methods: Agile/Scrum | Sprint Planning | Backlog Refinement
  
 
 
 <h2> EDUCATION & CERTIFICATIONS </h2>
-
-• Business Analytics, University of Illinois Urbana-Champaign, Gies College of Business (2026) 
-• Google Project Management Certificate, Google (2025) 
-• Level 7 Diploma in Project Management, CPD Online UK (2025) 
-• PM/BA Certification, Tritek Academy (2026) 
-• Data-Driven Digital Marketing & Analytics, University of Illinois Urbana-Champaign, Gies College of Business (2026) 
-• Strategic Leadership & Management Specialisation, University of Illinois Urbana-Champaign, Gies College of Business (2021) 
-• Inclusive Leadership: The Power of Workplace Diversity, University of Colorado System (2020) 
-• HTML, CSS & JavaScript, Johns Hopkins University (2020) 
-• Mini MBA, IBMI Berlin (2020) 
-• Bachelor of Agriculture (Animal Breeding & Genetics), University of Agriculture, Nigeria (2014) 
+- • Business Analytics, University of Illinois Urbana-Champaign, Gies College of Business (2026) 
+- • Google Project Management Certificate, Google (2025) 
+- • Level 7 Diploma in Project Management, CPD Online UK (2025) 
+- • PM/BA Certification, Tritek Academy (2026) 
+- • Data-Driven Digital Marketing & Analytics, University of Illinois Urbana-Champaign, Gies College of Business (2026) 
+- • Strategic Leadership & Management Specialisation, University of Illinois Urbana-Champaign, Gies College of Business (2021) 
+- • Inclusive Leadership: The Power of Workplace Diversity, University of Colorado System (2020) 
+- • HTML, CSS & JavaScript, Johns Hopkins University (2020) 
+- • Mini MBA, IBMI Berlin (2020) 
+- • Bachelor of Agriculture (Animal Breeding & Genetics), University of Agriculture, Nigeria (2014) 
 
 
 
