@@ -27,8 +27,8 @@ Digital Business Analyst with 7+ years of experience delivering business transfo
  
 
 
-<h2> EDUCATION & CERTIFICATIONS </h2>
--  Business Analytics, University of Illinois Urbana-Champaign, Gies College of Business (2026)  
+## EDUCATION & CERTIFICATIONS ##
+-  Business Analytics, University of Illinois Urbana-Champaign, Gies College of Business (2026)   
 -  Google Project Management Certificate, Google (2025)  
 -  Level 7 Diploma in Project Management, CPD Online UK (2025)  
 -  PM/BA Certification, Tritek Academy (2026)  
